@@ -15,6 +15,10 @@ public class Student {
        return firstName + " " + lastName;
   }
 
-  
+  public int getGrade()
+  {
+	return grade;
+  }
+
     
 }
