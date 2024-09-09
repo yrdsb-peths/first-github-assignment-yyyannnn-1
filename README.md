@@ -11,5 +11,3 @@ Do the following to Complete this assignment:
 4. Now click the green 'commit changes' button at the bottom.
 
 5. Done!
-
-gyuhijko
