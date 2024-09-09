@@ -1,11 +1,13 @@
 public class Dog {
   private String name; 
   private int age; 
+  private Boolean isMale;
 
-  public Student(String name, int age)
+  public Student(String name, int age, boolean male)
   {
 	this.age = age;
         this.name = name;
+	ismale = male;
   }
 
   public String toString()
